@@ -17,9 +17,10 @@
 
 ## 文章
 
-### 基础原理
-- [JVM源码分析之javaagent原理完全解读](https://developer.aliyun.com/article/2946)
+## 红队
 
+### 红队工具
+https://github.com/D1rkMtr/ExecRemoteAssembly
 
 # 交流讨论
 

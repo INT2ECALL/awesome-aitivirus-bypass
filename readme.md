@@ -23,6 +23,7 @@
 https://github.com/D1rkMtr/ExecRemoteAssembly
 https://github.com/KANKOSHEV/NoScreen
 https://github.com/Idov31/Cronos
+https://github.com/redteamsocietegenerale/DLLirant
 # 交流讨论
 
 欢迎关注公众号，一起交流学习。

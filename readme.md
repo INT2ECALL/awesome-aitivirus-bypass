@@ -37,6 +37,8 @@ https://github.com/D1rkMtr/EtwPatching
 
 https://github.com/JerryLinLinLin/AV_Detection_Dump
 
+https://github.com/daem0nc0re/AtomicSyscall
+
 # 交流讨论
 
 欢迎关注公众号，一起交流学习。

@@ -39,6 +39,8 @@ https://github.com/JerryLinLinLin/AV_Detection_Dump
 
 https://github.com/daem0nc0re/AtomicSyscall
 
+https://github.com/lab52io/StopDefender
+
 # 交流讨论
 
 欢迎关注公众号，一起交流学习。

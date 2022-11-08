@@ -20,6 +20,8 @@
 ## 红队
 
 ### 红队工具
+https://github.com/H4de5-7/schtask-bypass
+
 https://github.com/citronneur/pamspy
 
 https://github.com/D1rkMtr/ExecRemoteAssembly

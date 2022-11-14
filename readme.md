@@ -20,6 +20,8 @@
 ## 红队
 
 ### 红队工具
+https://github.com/ccdescipline/CInject
+
 https://github.com/INT2ECALL/go-strip
 
 https://github.com/H4de5-7/schtask-bypass

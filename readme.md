@@ -54,6 +54,8 @@ https://github.com/lab52io/StopDefender
 
 https://github.com/Mr-Un1k0d3r/AMSI-ETW-Patch
 
+https://github.com/D1rkMtr/ExecRemoteAssembly
+
 # 交流讨论
 
 欢迎关注公众号，一起交流学习。

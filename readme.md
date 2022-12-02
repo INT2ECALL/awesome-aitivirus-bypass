@@ -20,6 +20,8 @@
 ## 红队
 
 ### 红队工具
+https://github.com/seventeenman/noELF
+
 https://github.com/9bie/oss-stinger
 
 https://github.com/tsarpaul/llvm-string-obfuscator

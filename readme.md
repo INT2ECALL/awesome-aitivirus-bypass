@@ -99,6 +99,12 @@ https://github.com/m0n0ph1/Process-Hollowing
 
 https://github.com/Zer0Mem0ry/RunPE
 
+https://github.com/ethereal-vx/Antivirus-Artifacts
+
+https://github.com/huoji120/AV-Killer
+
+https://github.com/tokyoneon/Chimera
+
 
 
 

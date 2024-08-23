@@ -76,6 +76,32 @@ https://github.com/Mr-Un1k0d3r/AMSI-ETW-Patch
 https://github.com/D1rkMtr/ExecRemoteAssembly
 
 https://github.com/TheCruZ/kdmapper/fork
+
+https://github.com/suvllian/process-inject
+
+https://github.com/AzureGreen/InjectCollection
+
+https://github.com/3xpl01tc0d3r/ProcessInjection
+
+https://github.com/secrary/InjectProc
+
+https://bbs.kanxue.com/thread-251412.htm#msg_header_h1_1
+
+https://github.com/gaffe23/linux-inject
+
+https://github.com/DanielRTeixeira/injectAllTheThings
+
+https://github.com/DarthTon/Xenos
+
+https://github.com/anhkgg/SuperDllHijack
+
+https://github.com/m0n0ph1/Process-Hollowing
+
+https://github.com/Zer0Mem0ry/RunPE
+
+
+
+
 # 交流讨论
 
 欢迎关注公众号，一起交流学习。

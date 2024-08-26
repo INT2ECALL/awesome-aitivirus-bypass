@@ -22,6 +22,8 @@ https://github.com/OccamsXor/Dragnmove
 
 ### 红队工具
 
+https://security.stackexchange.com/questions/270383/how-does-the-av-inject-their-own-dll-in-each-new-process
+
 https://github.com/EgeBalci/sgn
 
 https://github.com/ferreiraklet/icmp_reverse_shell

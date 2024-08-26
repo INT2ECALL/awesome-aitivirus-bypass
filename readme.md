@@ -21,6 +21,9 @@ https://github.com/OccamsXor/Dragnmove
 ## 红队
 
 ### 红队工具
+
+https://github.com/EgeBalci/sgn
+
 https://github.com/ferreiraklet/icmp_reverse_shell
 
 https://github.com/killeven/DllToShellCode
